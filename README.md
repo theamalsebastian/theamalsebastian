@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:theamalsebatian
 🎓 Computer Science & Engineering student passionate about web development, cloud computing, and distributed systems<br>💻 Currently learning and building with HTML, CSS, JavaScript, React, Node.js, Python, and GitHub<br>📂 Actively working on internship projects, seminar reports, and portfolio-ready applications<br>🌐 Long-term vision: Apply advanced cloud and distributed technologies to solve real-world problems, especially in healthcare tech<br>🛠️ Tools I use: PyCharm, VS Code, GitHub Desktop, and deployment platforms<br><br>
 
 
