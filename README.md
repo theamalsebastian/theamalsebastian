@@ -1,5 +1,4 @@
-# 💫 About Me:
-## Hi, I'm Amal Sebastian
+## Amal Sebastian
 
 I'm a Computer Science Engineering student (B.Tech, graduating 2026) focused on web development, AI/ML, and building real‑world projects.  
 Currently working on portfolio apps like an **AI Resume Analyzer** and an **AI Mental Health Companion**, combining technical depth with social impact.  
