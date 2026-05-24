@@ -1,5 +1,12 @@
 # 💫 About Me:
-# 👋 Hi, I'm Amal Sebastian  <br><br>🎓 Computer Science Engineering Student (B.Tech, graduating 2026)  <br>💻 Passionate about **Web Development, AI/ML, and Inclusive Tech Solutions**  <br>🚀 Actively building real‑world projects that combine **technical depth** with **social impact**  <br><br>---<br><br> 🌟 What I Do<br>- 🧠 AI Projects: Resume Analyzer, Mental Health Companion, Sign Language Translator  <br>- 🌐 Web Development: Streamlit apps, portfolio websites, interactive dashboards  <br>- 📊 Technical Skills: Python, OOP, Data Structures, Cloud Computing, Machine Learning  <br>- 📝 Professional Skills: Documentation, Presentation, Troubleshooting  <br><br>---<br><br>📌 Featured Projects<br>- 📄 [AI Resume Analyzer](https://github.com/theamalsebastian/AI-Resume-Analyzer)  <br>  *Analyzes resumes and provides recruiter‑style feedback.*  <br><br>- 💙 [AI Mental Health Companion](https://github.com/theamalsebastian/AI-Mental-Health-Companion)  <br>  *Supports wellbeing with sentiment analysis and coping suggestions.*  <br><br><br>✨ *I believe in building technology that is both practical and human‑centered.*  <br>
+## Hi, I'm Amal Sebastian
+
+I'm a Computer Science Engineering student (B.Tech, graduating 2026) focused on web development, AI/ML, and building real‑world projects.  
+Currently working on portfolio apps like an **AI Resume Analyzer** and an **AI Mental Health Companion**, combining technical depth with social impact.  
+I enjoy solving problems, learning new technologies, and creating tools that make a difference.
+
+
+🧠 AI Projects: Resume Analyzer, Mental Health Companion, Sign Language Translator  <br>- 🌐 Web Development: Streamlit apps, portfolio websites, interactive dashboards  <br>- 📊 Technical Skills: Python, OOP, Data Structures, Cloud Computing, Machine Learning  <br>- 📝 Professional Skills: Documentation, Presentation, Troubleshooting  <br><br>---<br><br>📌 Featured Projects<br>- 📄 [AI Resume Analyzer](https://github.com/theamalsebastian/AI-Resume-Analyzer)  <br>  *Analyzes resumes and provides recruiter‑style feedback.*  <br><br>- 💙 [AI Mental Health Companion](https://github.com/theamalsebastian/AI-Mental-Health-Companion)  <br>  *Supports wellbeing with sentiment analysis and coping suggestions.*  <br><br><br>✨ *I believe in building technology that is both practical and human‑centered.*  <br>
 
 
 ## 🌐 Socials:
