@@ -1,3 +1,4 @@
+About me
 ## Amal Sebastian
 
 I'm a Computer Science Engineering student (B.Tech, graduating 2026) focused on web development, AI/ML, and building real‑world projects.  
