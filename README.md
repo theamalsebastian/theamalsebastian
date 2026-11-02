@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Portfolio website: [Check it out](https://theamalsebastian.vercel.app)
+Portfolio website: [Amal Sebastian](https://theamalsebastian.vercel.app)
 
 
 ## 🌐 Socials:
